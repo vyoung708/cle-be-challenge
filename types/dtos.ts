@@ -30,7 +30,7 @@ export type PlayerOverviewDTO = {
   shortName: string;
   position: string;
   playerId: number;
-  imgId: string;
+  imgId: number;
   orgId: number;
   orgAbbr: string;
   teamAbbr: string;
@@ -41,7 +41,7 @@ export type PlayerDetailDTO = {
   shortName: string;
   position: string;
   playerId: number;
-  imgId: string;
+  imgId: number;
   ageDecimal: number;
   bats: string;
   throws: string;

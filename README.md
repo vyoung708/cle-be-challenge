@@ -21,9 +21,9 @@
 
 ---
 
-## Provided Endpoint Documentation
+### Provided Endpoint Documentation
 
-# `/players`
+## `/players`
 
 #### Query Params
 
@@ -50,7 +50,7 @@ If a playerId is passed, returns detailed playerDetails
 }
 ```
 
-# `/pitches`
+## `/pitches`
 
 #### Query Params
 

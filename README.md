@@ -2,6 +2,10 @@
 
 Using this starter repository, create endpoints that follow the outlined spec below utilizing Vercel's Node.js runtime: [Vercel Docs](https://vercel.com/docs/runtimes#official-runtimes/node-js)
 
+Once you have completed replacing the provided endpoints (as well as any of the sections of the FE portion of the challenge), email the hiring manager you are in contact with to your forked CodeSandbox and your github repo for this BE challenge.
+
+Good luck!
+
 ## Setup
 
 #### Vercel
@@ -19,7 +23,7 @@ Using this starter repository, create endpoints that follow the outlined spec be
 
 - Push repository to your github account
 - Open Vercel, create new project, link to Github repository
-- Use provided URL in the front end part of the challenge
+- Now replace the provided endpoints with your custom ones.
 
 ---
 

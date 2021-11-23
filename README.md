@@ -2,7 +2,7 @@
 
 Using this starter repository, create endpoints that follow the outlined spec below utilizing Vercel's Node.js runtime: [Vercel Docs](https://vercel.com/docs/runtimes#official-runtimes/node-js)
 
-Once you have completed replacing the provided endpoints (as well as any of the sections of the FE portion of the challenge), email the hiring manager you are in contact with to your forked CodeSandbox and your github repo for this BE challenge.
+Once you have completed replacing the provided endpoints (as well as any of the sections of the FE portion of the challenge), there is a form link in the initial email you recieved. Fill out the questions, which should include urls to your forked sandbox (and your forked github repo if you do Part IV). Give a brief explanation of how it went and what challenges (if any) you faced. Also let us know roughly how long it took for you to complete the challenge. Speed is not what we are evaluating; we are evaluating the process as a whole and the effort it takes to complete it.
 
 Good luck!
 

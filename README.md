@@ -1,5 +1,7 @@
 # Cleveland Guardians Backend Challenge
 
+Using this starter repository, create endpoints that follow the outlined spec below utilizing Vercel's Node.js runtime: [Vercel Docs](https://vercel.com/docs/runtimes#official-runtimes/node-js)
+
 ## Setup
 
 #### Vercel
